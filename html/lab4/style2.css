@@ -1,0 +1,7 @@
+/* Customizes paragraph text font and size */
+p {
+    font-size: 18px;
+    font-family: 'Times New Roman', serif;
+    line-height: 1.6;
+    color: #333333;
+}

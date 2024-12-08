@@ -1,0 +1,8 @@
+/* Customizes blockquote styling */
+blockquote {
+    font-style: italic;
+    color: #444444;
+    border-left: 4px solid #888888;
+    padding-left: 10px;
+    margin: 20px 0;
+}

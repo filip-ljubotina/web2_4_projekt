@@ -1,0 +1,7 @@
+/* Customizes list item styles */
+li {
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+    color: #555555;
+    margin-bottom: 5px;
+}

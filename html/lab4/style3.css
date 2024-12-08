@@ -1,0 +1,7 @@
+/* Adds a shadow effect to text */
+h2 {
+    color: #0073e6; /* Blue */
+    text-shadow: 2px 2px 4px #999999;
+    font-weight: bold;
+    font-style: italic;
+}

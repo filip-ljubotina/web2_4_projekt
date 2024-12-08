@@ -1,0 +1,6 @@
+/* Customizes heading text color */
+h1 {
+    color: #ff5733; /* Bright orange */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
